@@ -1,0 +1,38 @@
+/****************************************************
+ * Header Stuff
+****************************************************/
+
+#moderate-categories-icon{
+    height: 46px;
+    width: 110px;
+    float: left;
+    margin: 14px 6px 0px 0px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-image: url(../img/top.logo.big.png);
+}
+
+
+/****************************************************
+ * Rule List
+****************************************************/
+
+.moderateTable{
+    width:50%;
+    float:left;
+    min-width:300px;
+}
+
+/****************************************************
+ * Add Rule Form
+****************************************************/
+.moderateForm{
+    width: 50%;
+    float: left;
+    display:inline;
+    min-width: 300px;
+}
+
+.moderateSubmitCol{
+    text-align:right;
+}
